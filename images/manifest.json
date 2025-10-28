@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://MariaFrancesca6.github.io/testGioco/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in MariaFrancesca6/testGioco project"
+        ]
+    },
+    "items": []
+}
